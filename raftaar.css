@@ -1,0 +1,36 @@
+#artist-image{
+	height: 60vh;
+	width: 40%;
+	background: linear-gradient(to bottom, rgba(13,0,101,0) 10%,
+              rgba(13,0,101,1)), url(/Images/Raftaar\ img0.jpg); /*Adding linear gradient*/
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-bottom: 4.4%;
+	
+	
+}
+#artist-img1{
+	background-image: url(/Images/Neha\ Kakkar.jpg);
+	height: 15vh;
+	width: 15vh;
+	background-position: center;
+	background-size: cover;
+	margin-right: -0.5rem;
+ }
+ #artist-img4{
+	 background-image: url(/Images/Arijit\ singh.jpg);
+	 height: 15vh;
+	 width: 15vh;
+	 background-position: center;
+	 background-size: cover;
+	 margin-right: -0.5rem;
+  }
+  #artist-img3{
+	 background-image: url(/Images/Rahul\ jain.jpg);
+	 height: 15vh;
+	 width: 15vh;
+	 background-position: center;
+	 background-size: cover;
+	 margin-right: -0.5rem;
+  }
